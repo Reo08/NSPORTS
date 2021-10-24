@@ -24,7 +24,7 @@ a {
 header {
     width: 100%;
     height: 75px;
-    background-color:  #000f3ee0;
+    background-color:  #000f3e;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -85,7 +85,7 @@ main {
 .buscador {
     width: 50%;
     height: 50px;
-    background-color: rgba(228,230,231,0.7);
+    background-color: rgba(228,230,231,1);
     border-radius: 10px;
     margin-top: 15px;
     display: flex;
@@ -125,7 +125,7 @@ main {
     width: 50%;
     height: 75%;
     /* background-color: #000f3e; */
-    background-color: rgba(228,230,231,0.7);
+    background-color: rgba(228,230,231,1);
     border-radius: 10px;
     /* border: 5px solid black; */
     padding-top: 20px;
